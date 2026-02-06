@@ -1,17 +1,17 @@
 # Hi there! 👋 this is Michael
 
-<img align="right" width="280" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp2cUmugccaYasLEdvbZXIqX-cVI1Xz8OJA&s" alt="coding illustration">
+<img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp2cUmugccaYasLEdvbZXIqX-cVI1Xz8OJA&s" alt="coding illustration">
 
 🎓 **Master's in Data Analytics (AI Specialization)** @ Western University
 
 🚀 Passionate about building innovative AI systems — from multi-agent architectures to production ML pipelines — delivering cutting-edge solutions that bridge research and real-world impact.
 
 
-[<img align="right" width="300" alt="GitHub Stats" src="https://github.com/IamMichael23/IamMichael23/blob/main/github-metrics.svg">](#)
-[<img align="left" width="300" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
-[<img align="left" width="300" alt="Contribution Calendar" src="https://github.com/IamMichael23/IamMichael23/blob/main/isocalendar.svg">](#)
+[<img align="left" width="400" alt="GitHub Stats" src="https://github.com/IamMichael23/IamMichael23/blob/main/github-metrics.svg">](#)
+[<img align="right" width="400" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
+[<img align="right" width="400" alt="Contribution Calendar" src="https://github.com/IamMichael23/IamMichael23/blob/main/isocalendar.svg">](#)
 
-
+<br clear="both">
 ### 🛠️ Tech Stack
 
 **Programming:**
