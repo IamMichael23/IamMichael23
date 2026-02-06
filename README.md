@@ -8,8 +8,8 @@
 
 
 [<img align="left" width="400" alt="GitHub Stats" src="https://github.com/IamMichael23/IamMichael23/blob/main/github-metrics.svg">](#)
-[<img align="right" width="400" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
-[<img align="right" width="400" alt="Contribution Calendar" src="https://github.com/IamMichael23/IamMichael23/blob/main/isocalendar.svg">](#)
+[<img align="right" width="380" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
+[<img align="right" width="380" alt="Contribution Calendar" src="https://github.com/IamMichael23/IamMichael23/blob/main/isocalendar.svg">](#)
 
 <br clear="both">
 ### 🛠️ Tech Stack
