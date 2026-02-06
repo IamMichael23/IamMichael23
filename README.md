@@ -6,7 +6,6 @@
 
 🚀 Passionate about building innovative AI systems — from multi-agent architectures to production ML pipelines — delivering cutting-edge solutions that bridge research and real-world impact.
 
-<br clear="both">
 
 [<img align="left" width="390" alt="GitHub Stats" src="https://github.com/IamMichael23/IamMichael23/blob/main/github-metrics.svg">](#)
 [<img align="right" width="390" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
