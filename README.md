@@ -11,7 +11,7 @@
 [<img align="right" width="390" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
 
 [<img align="right" width="390" alt="Contribution Calendar" src="https://github.com/IamMichael23/IamMichael23/blob/main/isocalendar.svg">](#)
-
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,9 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-<br clear="both">
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-lx-chen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mchen522@uwo.ca)
