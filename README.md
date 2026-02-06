@@ -12,7 +12,7 @@
 [<img align="right" width="390" alt="Contribution Calendar" src="https://github.com/IamMichael23/IamMichael23/blob/main/isocalendar.svg">](#)
 
 
-
+<br clear="both">
 
 ### 🛠️ Tech Stack
 
