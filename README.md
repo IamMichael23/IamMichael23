@@ -1,10 +1,10 @@
 # Michael Chen
 
-Master's student in Data Analytics (AI Specialization) at Western University. Graduating August 2026.
+**AI / ML Engineer** · RAG · Reinforcement Learning · Multi-Agent Systems · Computer Vision
 
-📍 London, ON, Canada
+📍 London, ON · M.Sc. Data Analytics (AI Specialization), Western University · Graduating Aug 2026 · **Open to AI / ML Engineering roles**
 
-I work on RAG systems, reinforcement learning, computer vision, and multi-agent frameworks. Most recent projects are built with Claude Code.
+Recent work: PPO agent that clears Super Mario Bros, hybrid LangGraph + LlamaIndex RAG over a real knowledge base, GraphRAG vs LightRAG benchmark, LoRA fine-tuning on Food-101, an agentic Playwright + Claude scraper, and a self-hosted n8n CRM that replaced a $800/mo Zapier setup. Mostly Python + PyTorch + LangGraph + LlamaIndex; lately a lot of Claude Code.
 
 [<img align="left" width="400" alt="GitHub Stats" src="https://github.com/IamMichael23/IamMichael23/blob/main/github-metrics.svg">](#)
 [<img align="right" width="380" alt="Languages" src="https://github.com/IamMichael23/IamMichael23/blob/main/languages.svg">](#)
@@ -16,12 +16,12 @@ I work on RAG systems, reinforcement learning, computer vision, and multi-agent 
 
 | Project | What it does | Headline result |
 |---|---|---|
-| [Mario RL Agent](https://github.com/IamMichael23/Super-Mario-With-PPO-RL) | RL agent learning Super Mario Bros World 1 from raw 84×84 pixels | DDQN baseline + PPO upgrade, 86% win rate across 4 levels |
-| [Multi-Agent RAG](https://github.com/IamMichael23/Llama_Graph_Agent) | LangGraph + LlamaIndex hybrid RAG over a golf-fitting knowledge base | RAGAS correctness 0.60 → 0.95 |
-| [LoRA on ViT](https://github.com/IamMichael23/CNN-with-LoRA) | Parameter-efficient fine-tuning on Food-101 | ViT-B/16 + LoRA beat ResNet34 baseline by 27.33%, training 2.4% of params |
-| [GraphRAG vs LightRAG](https://github.com/IamMichael23/Graph-Rag-vs-Light-Rag) | RAG architecture benchmark on 20K+ chunks (Azure Foundry + RAGAS) | LightRAG: 3-5x faster indexing, 50-70% lower cost |
+| [Mario RL Agent](https://github.com/IamMichael23/Super-Mario-With-PPO-RL) | RL agent learning Super Mario Bros World 1 from raw 84×84 pixels | DDQN baseline + PPO upgrade, 86% win rate, ~30× over baseline |
+| [Multi-Agent RAG](https://github.com/IamMichael23/Llama_Graph_Agent) | LangGraph + LlamaIndex hybrid RAG over a golf-fitting knowledge base | Multi-turn reasoning, vector + BM25 retrieval, RAGAS-evaluated |
+| [GraphRAG vs LightRAG](https://github.com/IamMichael23/Graph-Rag-vs-Light-Rag) | RAG architecture benchmark on a 20K-chunk corpus (Azure Foundry + RAGAS) | LightRAG: 3-5× faster indexing, 50-70% lower cost |
+| [Dental Supply Scraper](https://github.com/IamMichael23/dental-supply-ai-scraper) | LangGraph + Playwright + Claude scraper with JSON-LD-first extraction | 4-node async pipeline, AJAX interception, Pydantic-validated output |
 | [n8n CRM Sync](https://github.com/IamMichael23/Fibery-to-HubSpot-Rest-API-MiddleWare) | Self-hosted Fibery ↔ HubSpot integration for 10K+ contacts | $800/mo → $200/mo, replaced ~25 hr/wk of manual entry |
-| [Dental Supply Scraper](https://github.com/IamMichael23/dental-supply-ai-scraper) | LangGraph + Playwright + Claude scraper with JSON-LD-first extraction | 95% Pydantic validation, halved Claude API costs vs naive prompting |
+| [LoRA on ResNet](https://github.com/IamMichael23/CNN-with-LoRA) | Parameter-efficient fine-tuning study on Food-101 | LoRA hits ~93% of baseline accuracy training ~1% of params |
 
 ## Tech Stack
 
